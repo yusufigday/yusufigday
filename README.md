@@ -18,4 +18,4 @@
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/yusuf-g%C3%BCn-7a5476299/)
-- [Email](yusufgun2005@gmail.com)
+- [Email](mailto:yusufgun2005@gmail.com)
