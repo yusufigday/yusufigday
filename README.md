@@ -6,7 +6,7 @@
 - 📍 Konya, Türkiye
 
 ### 🛠 Tech Stack
-- **Languages:** Java (Core, OOP, Multithreading)
+- **Languages:** Java 
 - **Frameworks:** Spring Boot
 - **Databases:** PostgreSQL, MySQL
 - **Tools:** IntelliJ IDEA, Postman, Maven, Git & GitHub
@@ -18,4 +18,4 @@
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/yusuf-g%C3%BCn-7a5476299/)
-- [Email](mailto:yusufgun2005@gmail.com)
+- [Email](yusufgun2005@gmail.com)
