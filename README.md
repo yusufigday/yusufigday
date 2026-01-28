@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm Yusuf GÜN
 
-<!--
-**yusufigday/yusufigday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 💻 **Computer Engineering Student** (3rd Year)
+- 🎯 Focused on **Backend Development** with Java & Spring Framework
+- 📍 Konya, Türkiye
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Java (Core, OOP, Multithreading)
+- **Frameworks:** Spring Boot
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** IntelliJ IDEA, Postman, Maven, Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Goals
+- Mastering REST API development and Microservices architecture.
+- Improving database design and optimization skills.
+- Looking for internship opportunities for January 2026.
+
+### 📫 Connect with me
+- [LinkedIn](SENIN_LINKEDIN_LINKIN)
+- [Email](mailto:SENIN_MAIL_ADRESIN)
