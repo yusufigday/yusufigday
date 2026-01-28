@@ -17,5 +17,5 @@
 - Looking for internship opportunities for January 2026.
 
 ### 📫 Connect with me
-- [LinkedIn](SENIN_LINKEDIN_LINKIN)
-- [Email](mailto:SENIN_MAIL_ADRESIN)
+- [LinkedIn](https://www.linkedin.com/in/yusuf-g%C3%BCn-7a5476299/)
+- [Email](mailto:yusufgun2005@gmail.com)
