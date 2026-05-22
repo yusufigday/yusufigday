@@ -28,5 +28,11 @@
 
 ### 📫 Connect with me
 
-* [LinkedIn](#) *(https://www.linkedin.com/in/yusuf-g%C3%BCn-7a5476299/)*
-* [Email](#) *(yusufgun2005@gmail.com)*
+### 📫 Connect with me
+
+<a href="https://www.linkedin.com/in/yusuf-g%C3%BCn-7a5476299/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:yusufgun2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
