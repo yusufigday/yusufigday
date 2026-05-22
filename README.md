@@ -1,21 +1,32 @@
 # Hi there! 👋 I'm Yusuf GÜN
 
-### 🎓 About Me
-- 💻 **Computer Engineering Student** (3rd Year)
-- 🎯 Focused on **Backend Development** with Java & Spring Framework
-- 📍 Konya, Türkiye
+### 👨‍💻 About Me
 
-### 🛠 Tech Stack
-- **Languages:** Java 
-- **Frameworks:** Spring Boot
-- **Databases:** PostgreSQL, MySQL
-- **Tools:** IntelliJ IDEA, Postman, Maven, Git & GitHub
+* 💻 3rd Year Computer Engineering Student at MAKÜ.
+* 🎯 Passionate **Java Backend Developer** focused on building secure, scalable, and high-performance RESTful APIs.
+* 🌱 Currently deep diving into **Spring Security, JWT, and clean architecture**.
+* 📍 Akşehir, Konya / Türkiye
 
-### 🚀 Current Goals
-- Mastering REST API development and Microservices architecture.
-- Improving database design and optimization skills.
-- Looking for internship opportunities for January 2026.
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Java (OOP, Stream API)
+* **Frameworks & Libraries:** Spring Boot, Spring Security, Hibernate, JPA, MapStruct
+* **Databases:** PostgreSQL, MySQL
+* **Tools & Practices:** IntelliJ IDEA, Postman, Git & GitHub, Maven, RESTful API Design
+
+---
+
+### 🚀 Highlighted Projects
+
+* 🚌 **[Busify](https://github.com/yusufigday/Busify)** - A comprehensive bus ticketing and route management REST API. Built with Spring Boot, featuring Role-Based Access Control (RBAC), stateless JWT authentication, and strict IDOR vulnerability protection.
+* 🧾 **[InvoiceUploadSystemSpringBoot](https://github.com/yusufigday/InvoiceUploadSystemSpringBoot)** - A robust backend application designed for securely managing and processing invoice uploads using Spring Boot.
+* 🚗 **[ParkingSystem-Java-OOP](https://github.com/yusufigday/ParkingSystem-Java-OOP)** - A core Java application demonstrating strong Object-Oriented Programming principles, inheritance, and custom exception handling.
+
+---
 
 ### 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/yusuf-g%C3%BCn-7a5476299/)
-- [Email](mailto:yusufgun2005@gmail.com)
+
+* [LinkedIn](#) *(https://www.linkedin.com/in/yusuf-g%C3%BCn-7a5476299/)*
+* [Email](#) *(yusufgun2005@gmail.com)*
